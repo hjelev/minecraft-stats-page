@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="/img/minecraft.png" />
+    <title>Minecraft Server Status</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div id="server-container">
+        <img width="64" height="64" src="/img/minecraft.png" id="server-icon" alt="Server Icon"/>
+        <div id="server-info">
+            <h1 id="server-ip">mc.masoko.net</h1>
+            <span id="motd">The server is down</span>
+            <div id="server-version"></div>
+            <div><span id="player-count">x</span></div>
+            <div id="usernames-container">
+                <ul>
+                    <!-- Usernames will be dynamically inserted here -->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
