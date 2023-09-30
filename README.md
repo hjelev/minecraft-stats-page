@@ -1,4 +1,4 @@
-# minecraft-stats-page
+# minecraft-status-page
 
 Simple Minecraft server status page.
 The page is a static html/css/js page that uses mcapi.us API to display the status of a Minecraft server.
