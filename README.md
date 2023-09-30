@@ -4,8 +4,7 @@
 [![License](https://img.shields.io/github/license/hjelev/minecraft-status-page.svg)](LICENSE)
 [![Version](https://img.shields.io/github/v/release/hjelev/minecraft-status-page.svg)](https://github.com/hjelev/minecraft-status-page/releases)
 
-Simple Minecraft server status page.
-The page is a static html/css/js page that uses mcapi.us API to display the status of a Minecraft server.
+Welcome to the Minecraft Status Page! This simple web page allows you to display the status of your Minecraft server along with player information. Customize it to fit your server and make it your own!
 Since everything is done on the client side, you can host the page on any webserver.
 
 ## Features:
