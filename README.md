@@ -11,7 +11,7 @@ Since everything is done on the client side, you can host the page on any webser
 * Server version
 * Server motd
 * Server favicon
-
+* Random background image
 
 ## Demo
 
