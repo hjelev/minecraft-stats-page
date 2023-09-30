@@ -1,13 +1,13 @@
 // Array of background images
 const backgroundImages = [
-    '/img/background-1.jpeg',
-    '/img/background-2.jpeg',
-    '/img/background-3.jpeg',
-    '/img/background-4.jpeg',
-    '/img/background-5.jpeg',
-    '/img/background-6.jpeg',
-    '/img/background-7.jpeg',
-    '/img/background-8.jpeg',
+    'img/background-1.jpeg',
+    'img/background-2.jpeg',
+    'img/background-3.jpeg',
+    'img/background-4.jpeg',
+    'img/background-5.jpeg',
+    'img/background-6.jpeg',
+    'img/background-7.jpeg',
+    'img/background-8.jpeg',
 ];
 
 // Randomly select a background image
