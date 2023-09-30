@@ -1,2 +1,2 @@
 # minecraft-stats-page
-Simple Minecraft server statuspage using mcapi.us API
+Simple Minecraft server status page using mcapi.us API
