@@ -1,5 +1,17 @@
 # minecraft-stats-page
-Simple Minecraft server status page using mcapi.us API
+
+Simple Minecraft server status page.
+The page is a static html/css/js page that uses mcapi.us API to display the status of a Minecraft server.
+Since everything is done on the client side, you can host the page on any webserver.
+
+## Features:
+
+* Server status
+* Online players
+* Server version
+* Server motd
+* Server favicon
+
 
 ## Demo
 
@@ -7,4 +19,6 @@ http://mc.masoko.net
 
 ## Installation
 
-Clone the repo and point your webserver to the folder
+1. Clone the repository
+2. Edit the `js/config.js` file
+3. Upload the files to your webserver
