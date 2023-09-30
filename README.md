@@ -1,8 +1,7 @@
 # minecraft-status-page
 
-[![Build Status](https://img.shields.io/travis/hjelev/minecraft-status-page/master.svg)](https://travis-ci.org/hjelev/minecraft-status-page)
-[![License](https://img.shields.io/github/license/hjelev/minecraft-status-page.svg)](LICENSE)
-[![Version](https://img.shields.io/github/v/release/hjelev/minecraft-status-page.svg)](https://github.com/hjelev/minecraft-status-page/releases)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/hjelev/minecraft-status-page) ![GitHub repo size](https://img.shields.io/github/repo-size/hjelev/minecraft-status-page) ![GitHub issues](https://img.shields.io/github/issues/hjelev/minecraft-status-page) ![GitHub closed issues](https://img.shields.io/github/issues-closed/hjelev/minecraft-status-page)  ![GitHub language count](https://img.shields.io/github/languages/count/hjelev/minecraft-status-page) ![GitHub top language](https://img.shields.io/github/languages/top/hjelev/minecraft-status-page)
+
 
 Welcome to the Minecraft Status Page! 
 
@@ -10,7 +9,7 @@ Welcome to the Minecraft Status Page!
 This simple web page allows you to display the status of your Minecraft server along with player information. Customize it to fit your server and make it your own!
 Since everything is done on the client side, you can host the page on any webserver.
 
-## Features:
+## Features
 
 - **Server Status:** Check if your server is online or offline.
 - **Player Count:** Display the number of players currently online.
