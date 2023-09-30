@@ -22,7 +22,7 @@ Since everything is done on the client side, you can host the page on any webser
 
 ## Demo
 
-Check out the [live demo](http://mc.masoko.net).
+Check out the [live demo](https://mc.masoko.net).
 
 ## Installation
 
