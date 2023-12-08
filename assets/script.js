@@ -20,7 +20,7 @@ document.body.style.backgroundImage = `url('${randomBackground}')`;
 function initServerData(serverIp, serverPort) {
     const serverIpElement = document.getElementById('server-ip');
     serverIpElement.innerHTML = serverIp;
-    fetch(`https://mcapi.us/server/status?ip=${serverIp}&port=${serverPort}`)
+    fetch(`https://api.mcsrvstat.us/bedrock/3/${serverIp}`)
         .then(response => response.json())
         .then(data => handleServerStatus(data));
 
