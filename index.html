@@ -44,12 +44,14 @@
 
             // Check if the server is online
             if (data.online) {
+                // Hardcode the host name to "mc.masoko.net"
+                const hostName = 'mc.masoko.net';
+
                 // Construct HTML with server information
                 const html = `
                     <h2>Server Status</h2>
                     <p>Online: Yes</p>
-                    <p>IP: ${data.ip}</p>
-                    <p>Port: ${data.port}</p>
+                    <p>Host: ${hostName}</p>
                     <p>Players: ${data.players.online}/${data.players.max}</p>
                     <p>Version: ${data.version}</p>
                     <p>Game Mode: ${data.gamemode || 'Unknown'}</p>
